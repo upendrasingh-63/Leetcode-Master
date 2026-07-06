@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

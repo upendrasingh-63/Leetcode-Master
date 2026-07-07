@@ -23,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0682-baseball-game) |
+| [1021-remove-outermost-parentheses](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1021-remove-outermost-parentheses) |
 ## Array
 |  |
 | ------- |

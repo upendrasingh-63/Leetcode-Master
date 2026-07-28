@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0493-reverse-pairs) |
 | [0682-baseball-game](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -80,8 +82,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0169-majority-element) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->

@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0322-coin-change) |
 ## Knapsack Problem
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0322-coin-change) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

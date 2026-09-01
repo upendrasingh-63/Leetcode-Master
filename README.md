@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0322-coin-change) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0493-reverse-pairs) |
 | [0682-baseball-game](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0682-baseball-game) |
@@ -112,4 +114,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

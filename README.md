@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0020-valid-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0516-longest-palindromic-subsequence) |
 | [1021-remove-outermost-parentheses](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1021-remove-outermost-parentheses) |
+| [1092-shortest-common-supersequence](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1092-shortest-common-supersequence) |
 ## Stack
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0518-coin-change-ii) |
+| [1092-shortest-common-supersequence](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1092-shortest-common-supersequence) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0416-partition-equal-subset-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1092-shortest-common-supersequence](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1092-shortest-common-supersequence) |
 <!---LeetCode Topics End-->

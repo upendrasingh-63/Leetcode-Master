@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0075-sort-colors) |
+| [0120-triangle](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0169-majority-element) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0322-coin-change) |
 ## Knapsack Problem

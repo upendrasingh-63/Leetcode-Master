@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0493-reverse-pairs) |
+| [0518-coin-change-ii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0518-coin-change-ii) |
 | [0682-baseball-game](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -125,15 +126,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0416-partition-equal-subset-sum) |
+| [0518-coin-change-ii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0518-coin-change-ii) |
 ## Knapsack Problem
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0416-partition-equal-subset-sum) |
+| [0518-coin-change-ii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0518-coin-change-ii) |
 ## Combinatorics
 |  |
 | ------- |

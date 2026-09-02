@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0044-wildcard-matching) |
+| [0132-palindrome-partitioning-ii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0516-longest-palindromic-subsequence) |
 | [1021-remove-outermost-parentheses](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1048-longest-string-chain) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0120-triangle) |
+| [0132-palindrome-partitioning-ii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0368-largest-divisible-subset) |

@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0044-wildcard-matching) |
 | [0516-longest-palindromic-subsequence](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0516-longest-palindromic-subsequence) |
 | [1021-remove-outermost-parentheses](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1021-remove-outermost-parentheses) |
+| [1048-longest-string-chain](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1092-shortest-common-supersequence) |
 ## Stack
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0493-reverse-pairs) |
 | [0518-coin-change-ii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0518-coin-change-ii) |
 | [0682-baseball-game](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0682-baseball-game) |
+| [1048-longest-string-chain](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1048-longest-string-chain) |
 ## Simulation
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0268-missing-number) |
+| [1048-longest-string-chain](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1048-longest-string-chain) |
 ## Math
 |  |
 | ------- |
@@ -92,10 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0368-largest-divisible-subset) |
+| [1048-longest-string-chain](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1048-longest-string-chain) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0075-sort-colors) |
+| [1048-longest-string-chain](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1048-longest-string-chain) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -136,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0518-coin-change-ii) |
+| [1048-longest-string-chain](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1092-shortest-common-supersequence) |
 ## Knapsack Problem
 |  |

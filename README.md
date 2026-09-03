@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0044-wildcard-matching) |
+| [0087-scramble-string](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0087-scramble-string) |
 | [0132-palindrome-partitioning-ii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0516-longest-palindromic-subsequence) |
 | [1021-remove-outermost-parentheses](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1021-remove-outermost-parentheses) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0064-minimum-path-sum) |
+| [0087-scramble-string](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0087-scramble-string) |
 | [0120-triangle](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |

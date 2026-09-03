@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0682-baseball-game) |
+| [0904-fruit-into-baskets](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1004-max-consecutive-ones-iii) |
 | [1043-partition-array-for-maximum-sum](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1048-longest-string-chain) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0268-missing-number) |
+| [0904-fruit-into-baskets](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0904-fruit-into-baskets) |
 | [1048-longest-string-chain](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1048-longest-string-chain) |
 ## Math
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |

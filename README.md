@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0044-wildcard-matching) |
+| [0076-minimum-window-substring](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0087-scramble-string) |
 | [0132-palindrome-partitioning-ii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0516-longest-palindromic-subsequence) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0268-missing-number) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0076-minimum-window-substring) |
 | [0904-fruit-into-baskets](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1248-count-number-of-nice-subarrays) |

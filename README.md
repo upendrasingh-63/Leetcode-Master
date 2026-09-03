@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1004-max-consecutive-ones-iii) |
 | [1043-partition-array-for-maximum-sum](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1048-longest-string-chain) |
+| [1248-count-number-of-nice-subarrays](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1248-count-number-of-nice-subarrays) |
 ## Simulation
 |  |
 | ------- |
@@ -80,12 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0904-fruit-into-baskets) |
 | [1048-longest-string-chain](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1048-longest-string-chain) |
+| [1248-count-number-of-nice-subarrays](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0368-largest-divisible-subset) |
+| [1248-count-number-of-nice-subarrays](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1248-count-number-of-nice-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -207,8 +210,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1248-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->

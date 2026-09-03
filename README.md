@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0682-baseball-game) |
+| [1004-max-consecutive-ones-iii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1004-max-consecutive-ones-iii) |
 | [1043-partition-array-for-maximum-sum](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1048-longest-string-chain) |
 ## Simulation
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0493-reverse-pairs) |
+| [1004-max-consecutive-ones-iii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -198,4 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->

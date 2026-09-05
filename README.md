@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1584-min-cost-to-connect-all-points) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1584-min-cost-to-connect-all-points](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1584-min-cost-to-connect-all-points) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## String
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1248-count-number-of-nice-subarrays) |
+| [1584-min-cost-to-connect-all-points](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1584-min-cost-to-connect-all-points) |
 ## Simulation
 |  |
 | ------- |
@@ -249,4 +252,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->

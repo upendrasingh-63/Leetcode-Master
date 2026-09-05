@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0743-network-delay-time) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0322-coin-change) |
+| [0743-network-delay-time](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0743-network-delay-time) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
@@ -19,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0743-network-delay-time) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## String
 |  |
@@ -222,4 +225,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/1248-count-number-of-nice-subarrays) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/upendrasingh-63/Leetcode-Master/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
